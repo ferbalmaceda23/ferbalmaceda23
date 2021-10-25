@@ -1,2 +1,2 @@
 # **WELCOME**
-[![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferbalmaceda23)](https://github.com/anuraghazra/github-readme-stats)
+[![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferbalmaceda23&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
